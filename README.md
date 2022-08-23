@@ -1,7 +1,4 @@
-# asperitas
-
-Asperitas is a full stack reddit clone that I wrote to learn more about Node.js, React, and NoSQL databases. The name asperitas comes from a type of [cloud](https://en.wikipedia.org/wiki/Asperitas_(cloud)).
-
+campus connect
 ## Installation
 
 ### Prerequisites
@@ -56,6 +53,3 @@ $ cd client
 $ npm test
 ```
 
-## License
-
-This project is made available under the **MIT License**.
